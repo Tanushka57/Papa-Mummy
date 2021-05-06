@@ -1,0 +1,21 @@
+.copy_right_footer {
+    position: fixed;
+    color: darkblue;
+    bottom: 0;
+    width: 100%;
+    background-color:pink;
+    line-height: 3;
+    text-align: center;
+  }
+  .heading_div
+{
+  font-size: 23px;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
+  #di
+{
+  font-size: 20px;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
